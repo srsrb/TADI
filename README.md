@@ -1,3 +1,3 @@
 # TADI
 
-Mes TP en Techniques avancées d'images
+Mes TP en Traitement d'images avancé
